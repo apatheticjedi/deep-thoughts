@@ -29,6 +29,7 @@ This is a project that was completed for class. It was designed to gain experien
 * CSS
 * React
 * Node.js 
+* GraphQL
 
 ## Installation
 
